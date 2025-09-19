@@ -7,7 +7,8 @@ Web: HTML
 TOOls: GitHub, Linux.
 
 ## 📫 Connect with me
-- [LinkedIn]([https://www.linkedin.com/in/ewaolakunle(https://www.linkedin.com/in/ewaoluwa-olakunle-89b55a21a/))
+- [LinkedIn](https://www.linkedin.com/in/ewaoluwa-olakunle-89b55a21a/)
+  
 
   ### Fun Facts
 - I’m a believer in Jesus and love sharing my faith journey.
